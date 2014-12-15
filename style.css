@@ -2,15 +2,16 @@ body{
 	background: #7B9F35;
 	color: #A7383D;
 	text-align: center;
+	padding-left: 100px;
+	padding-right: 	100px;
 				}
 
 h1{
 	text-align: center;
 	padding-bottom: 20px
 				}
-cube{
-	align: center;
-				}
+
+
 nav ul{
 	background-color: #3515b0;
 	list-style-type: none;
